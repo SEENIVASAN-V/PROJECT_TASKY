@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Dancing+Script&family=El+Messiri&family=Great+Vibes&family=Josefin+Sans:ital,wght@0,100;0,200;0,400;0,700;1,100;1,400;1,500;1,700&family=Kaushan+Script&family=Oleo+Script+Swash+Caps&family=Poppins:wght@100&family=Vujahday+Script&family=Water+Brush&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(39, 38, 38);
+}
+#logo{
+    height: 50px;
+    width: 90px;
+    margin-right: 1050px;
+}
+.nav-link :active{
+    font-family: 'poppins';
+}
+.navbar{
+    background-color:white;
+}
+.input-group:hover{
+    box-shadow: rgb(0, 245, 249)  2px 2px 15px  ;
+    
+}
+.btn{
+    color: azure;
+    
+}
